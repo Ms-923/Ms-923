@@ -2,9 +2,9 @@
 <pre>
 Computer Science and Engineering (CSE) - B.E ,<br>Muffakham Jah College of Engineering & Technology (MJCET)<br>I'm a passionate Computer Science Engineering student with a<br>keen interest in web technologies, eager to learn new<br>technologies and improve my skills.
 </pre>
-
-#
-<img align="right" height="220" src="./src/pfp.gif"  />
+<hr>
+<img height="280" src="./src/pfp.gif"  />
+<hr>
 
 # 💻 Stack:
 <pre>
@@ -15,7 +15,7 @@ Computer Science and Engineering (CSE) - B.E ,<br>Muffakham Jah College of Engin
 
 ## 🌐 Social Media's:
 <pre>
-<a href="https://instagram.com/https://www.instagram.com/md.saif____?igsh=eGMwcGJoeWZ0bzNy&utm_source=qr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="54" alt="instagram"  /></a>      <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammedsaif923" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="54" alt="linkedin"  /></a>      <a href="mohammedsaifms2006@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="54" alt="gmail"  /></a>
+<a href="https://instagram.com/https://www.instagram.com/md.saif____?igsh=eGMwcGJoeWZ0bzNy&utm_source=qr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="54" alt="instagram"  /></a>      <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammedsaif923" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="54" alt="linkedin"  /></a>      <a href="mailto:mohammedsaifms2006@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="54" alt="gmail"  /></a>
 </pre>
 
 
