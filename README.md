@@ -10,7 +10,7 @@ Computer Science and Engineering (CSE) - B.E ,<br>Muffakham Jah College of Engin
 <pre>
 <img src="https://skillicons.dev/icons?i=html,css" height="54" alt="HTML,CSS logo"  />
 <img src="https://skillicons.dev/icons?i=python,raspberrypi" height="54" alt="PYTHON,RASPBERRY PI logo"/>
-<img src="https://skillicons.dev/icons?i=flask" height="54" alt="FLASK logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="54" alt="mongodb logo"  />
+<img src="https://skillicons.dev/icons?i=flask,mongodb" height="54" alt="FLASK,mongodb logo"  />
 </pre>
 
 ## 🌐 Social Media's:
